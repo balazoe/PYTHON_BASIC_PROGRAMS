@@ -2,6 +2,15 @@
 """
 Created on Fri Apr 21 17:34:39 2023
 draw the pattern
+*****
+****
+***
+**
+*
+**
+***
+****
+*****
 @author: Dell
 """
 
