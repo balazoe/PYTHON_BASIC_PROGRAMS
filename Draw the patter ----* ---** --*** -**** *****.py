@@ -1,7 +1,12 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Apr 22 17:33:49 2023
-
+Draw the patter
+----*
+---**
+--***
+-****
+*****
 @author: Dell
 """
 
